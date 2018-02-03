@@ -1,0 +1,9 @@
+d:\Allcash\Documents\Visual Studio 2015\Projects\CallTracking\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+d:\Allcash\Documents\Visual Studio 2015\Projects\CallTracking\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+d:\Allcash\Documents\Visual Studio 2015\Projects\CallTracking\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+d:\Allcash\Documents\Visual Studio 2015\Projects\CallTracking\WindowsFormsApplication4\obj\Debug\CallTracking.csprojResolveAssemblyReference.cache
+d:\Allcash\Documents\Visual Studio 2015\Projects\CallTracking\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.MainFrm.resources
+d:\Allcash\Documents\Visual Studio 2015\Projects\CallTracking\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+d:\Allcash\Documents\Visual Studio 2015\Projects\CallTracking\WindowsFormsApplication4\obj\Debug\CallTracking.csproj.GenerateResource.Cache
+d:\Allcash\Documents\Visual Studio 2015\Projects\CallTracking\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+d:\Allcash\Documents\Visual Studio 2015\Projects\CallTracking\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
